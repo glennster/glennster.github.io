@@ -1,2 +1,2 @@
 # Glenn Hendershott
-## Software Engineer, Innovator, Entrepreneur
+### Software Engineer, Innovator, Entrepreneur
