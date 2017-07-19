@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 name: Glenn Hendershott
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
