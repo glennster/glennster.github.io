@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 90%;
+    background-image: url("../MacBook.JPG");
     background-color: #262626;
 }
 nav ul, footer ul {
@@ -12,6 +13,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-size: 1.5em;
 }
 a {
     text-decoration: none;
@@ -24,20 +26,20 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #ff9933;
+    color: #ff8000;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #999;
+    color: #000000;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
